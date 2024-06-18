@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="5in"
+   viewBox="0 0 508.00001 127"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50646226"
+     inkscape:cx="1068.1941"
+     inkscape:cy="83.915434"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="CutLines"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#ff00ff;stroke-width:0.219222;stroke-linejoin:bevel;stroke-opacity:1"
+       id="rect1514"
+       width="418.88077"
+       height="107.73078"
+       x="28.935373"
+       y="12.130832"
+       ry="0.1192512"
+       inkscape:label="Outline" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect1514-9-0"
+       width="101.49526"
+       height="101.49526"
+       x="343.74625"
+       y="16.025463"
+       ry="0.11234887"
+       inkscape:label="black" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect1514-9-7"
+       width="101.49526"
+       height="101.49526"
+       x="239.77679"
+       y="16.025463"
+       ry="0.11234887"
+       inkscape:label="blue" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect1514-9"
+       width="101.49526"
+       height="101.49526"
+       x="135.80731"
+       y="16.025463"
+       ry="0.11234887"
+       inkscape:label="green" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="rect1514-9-9"
+       width="101.49526"
+       height="101.49526"
+       x="31.837847"
+       y="16.025463"
+       ry="0.11234887"
+       inkscape:label="red" />
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>Trichrome Trotec </inkscape:name>
+    <inkscape:author>Matthew Hamilton</inkscape:author>
+    <inkscape:shortdesc>Cut lines for trotec</inkscape:shortdesc>
+    <inkscape:date>2024-01-28</inkscape:date>
+  </inkscape:templateinfo>
+</svg>
