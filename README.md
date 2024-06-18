@@ -8,3 +8,8 @@ BTW: The instructions for this project were made with Lab64 in mind, so if you f
 - **StippleMount** STL 3D print file ready for making. Print upside down!
 - **StippLED Code** This is arduino code that runs on your Metromini V2. Not the best code but it works
 - **Trichrome Trotec Template** This is an SVG file for using with the Preprocessing Guide. (Trotec was the brand of the laser cutter we used)
+- **Backing** Another SVG file for cutting out the acrylic lid for your stipple mount. This is designed for 1/8" clear acrylic.
+
+
+
+![Example](https://github.com/matth215/Trichrome-Stipple-Light/assets/146595367/3085c9f0-26ba-4d35-a1c6-61aabd07f41a)
